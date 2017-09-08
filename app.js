@@ -4,12 +4,9 @@ function aNewBigFeature(){
 	console.log('Finally done with new feature');
 };
 function something(){
-<<<<<<< HEAD
 	console.log('I\'m Something');
-=======
 	console.log('I/'m Something');
 	console.log('Bug Fixed');
->>>>>>> master
 }
 console.log('hello');
 something(); 
